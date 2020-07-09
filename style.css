@@ -3,7 +3,7 @@
 }
 
 
-/*------carousel---*/
+/*------carousel start---*/
 .pink-bg{
     background-color: #fceae8;
 }
@@ -24,6 +24,71 @@
     border-radius: 5px;
 }
 
+/*------carousel End---*/
+
+/*------Watch Start---*/
+.cat1{
+    background-image: linear-gradient(to left, rgb(238, 215, 12) ,  rgb(255, 126, 6));
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.cat2{
+    background-image: linear-gradient(to left, rgb(245, 24, 179) ,  rgb(228, 0, 106));
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
 
 
-/*------carousel---*/
+.cat3{
+    background-image: linear-gradient(to left, rgb(46, 59, 238) ,  rgb(26, 0, 173));
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.catagories h1{
+    color: white;
+}
+/*------Watch End---*/
+
+/*---Shoes Cart Start--*/
+ .card{
+     border: none;
+     border-radius: 10px;
+     box-shadow: 5px 5px 10px lightgray;
+ }
+/*---Shoes Cart END--*/
+
+
+/*---Bag Pack Cart Start--*/
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+
+/*---Bag pack Cart END--*/
+
+
+/*---subscribe Start--*/
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color: grey;
+}
+/*---subscribe END--*/
+
+
+
+
+footer{
+    text-align: center;
+}
+
